@@ -1,6 +1,6 @@
 ﻿namespace TomsRepairShop.Domain.Models
 {
-    public class Document
+    public class PersonDocument
     {
         public int Id { get; set; }
         public int DocumentTypeId { get; set; }
